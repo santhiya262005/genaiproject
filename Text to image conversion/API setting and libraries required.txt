@@ -1,0 +1,13 @@
+Install the required libraries in vs code/any ide :
+                       1.Install pip
+                       2.After pip installation ,copy this command in terminal ->pip install google-generativeai
+                       3.Ensure installation process
+
+For Gemini API setting up :
+                       
+Visit the Google AI platform and create an account or log in.
+Find your API key in the settings page.
+Set this as an environment variable. For example, on Windows:
+Search for “Environment Variables” in the Start menu.
+Click “Edit the system environment variables”.
+Click the “Environment Variables” button.
