@@ -1,0 +1,11 @@
+To use the Gemini API, you need an API key. Follow these steps:
+
+1.Visit thepi.pe platform and create an account or log in.
+2.Find your API key in the settings page.
+3.Set this as an environment variable. For example, on Windows:
+4.Search for “Environment Variables” in the Start menu.
+5.Click “Edit the system environment variables”.
+6.Click the “Environment Variables” button.
+7.Under “User variables”, click “New”.
+8.Set the variable name as THEPIPE_API_KEY and the value as your API key.
+9.Click “OK” to save.
